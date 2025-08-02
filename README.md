@@ -22,6 +22,17 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 - Emotion Detection (Facial, Text, Voice)  
 - MLOps, Model Deployment, and Full-stack AI apps
 
+
+
+---
+
+## 📈 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhushalsingh&theme=graywhite&utcOffset=8)
+
 ---
 
 ## 🛠 Tech Stack
@@ -33,17 +44,6 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 **Cloud & DevOps:** IBM Cloud, GitHub Actions, Docker  
 **Tools:** FastAPI, LangChain, VS Code, Postman, Git
 
----
-
-## 📈 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhushalsingh&theme=graywhite&utcOffset=8)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekhushalsingh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekhushalsingh&layout=compact&theme=radical)
 
 ---
 
