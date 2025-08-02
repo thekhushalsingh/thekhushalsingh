@@ -36,6 +36,11 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 ---
 
 ## 📈 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhushalsingh&theme=graywhite&utcOffset=8)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekhushalsingh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekhushalsingh&layout=compact&theme=radical)
@@ -54,11 +59,5 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thekhushalsingh)](https://github.com/thekhushalsingh/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhushalsingh&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhushalsingh&theme=graywhite&utcOffset=8)
 
