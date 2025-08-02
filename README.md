@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khushal – AI Developer | Web & App Innovator 🚀
+# 👋 Hi, I'm Khushal – I Design & Code For Web-App And AI Models 🚀
 
 🎓 Computer Science Engineer | 💻 Full-Stack Developer | 🤖 Artificial Intelligence Enthusiast
 
