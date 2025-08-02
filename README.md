@@ -55,3 +55,10 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thekhushalsingh)](https://github.com/thekhushalsingh/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhushalsingh&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhushalsingh&theme=graywhite&utcOffset=8)
+
