@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khushal – I Design & Code For Web-App And AI Models 🚀
+# 👋 Hi, I'm Khushal – I Design & Code For Web-App And AI Models
 
 🎓 Computer Science Engineer | 💻 Full-Stack Developer | 🤖 Artificial Intelligence Enthusiast
 
@@ -24,26 +24,6 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 
 ---
 
-## 📂 Featured Projects
-
-### 🧠 Emotion-Sensitive Virtual Therapist  
-An adaptive therapy platform using NLP and emotion-detection models  
-`LLM • Sentiment Analysis • Facial Expression Recognition`
-
-### 🧾 Legal Advisor Chatbot for Indian Law  
-Conversational legal support using IBM Watsonx Assistant and custom data  
-`NLP • Knowledge Graphs • Multilingual`
-
-### 📊 Diabetes-Friendly Meal Planner  
-An AI-driven weekly vegetarian meal planner for diabetics  
-`Nutrition API • Python • Web App`
-
-### 🎧 YouTube AI Agent (Pro)  
-AI agent with TTS, visuals, and subtitles for generating YouTube videos  
-`GPT • ElevenLabs • Pexels API • Video Automation`
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:** Python, JavaScript, Dart, C++, Java  
@@ -66,7 +46,7 @@ AI agent with TTS, visuals, and subtitles for generating YouTube videos
 
 - [LinkedIn](https://www.linkedin.com/in/thekhushalsingh)
 - [Portfolio Website](https://your-portfolio-link.com)
-- [Email](mailto:yourname@email.com)
+- [Email](mailto:khushalsingh9445@gmail.com)
 
 ---
 
