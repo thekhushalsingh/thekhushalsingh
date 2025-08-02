@@ -51,3 +51,5 @@ I’m a passionate developer who started my journey with full-stack web and mobi
 ---
 
 > ⚡ *"Building the future one intelligent system at a time."*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thekhushalsingh)](https://github.com/thekhushalsingh/github-profile-trophy)
